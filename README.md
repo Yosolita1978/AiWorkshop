@@ -1,14 +1,48 @@
-# My Potassium App
-This is a Potassium HTTP server, created with `banana init` CLI
+# Social Media Avatar Creation Workshop with Stable Diffusion v.15
 
-### Testing
-Start a local dev server with `python3 app.py`
+Welcome to our workshop on creating your own social media avatar using the Stable Diffusion v.15 algorithm. This README provides an overview of the steps you will follow during the workshop and the necessary preparations.
 
-### Deployment
-1. Create empty repo on [Github](https://github.com)
-2. Push this repo to github
-```
-git remote add origin https://github.com/{username}/{repo-name}.git
-```
-3. [Log into Banana](https://app.banana.dev/)
-4. Select this repo to build and deploy!
+You can watch the instructions on how to work with this workshop in [this video](https://youtu.be/G_KItiX1CDI?si=YTb3U-iztx7jF7kC)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_KItiX1CDI?si=YTb3U-iztx7jF7kC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Getting Started
+
+1. **Create Your Workshop Copy**: 
+   - In [the Google Colab](https://colab.research.google.com/github/Yosolita1978/AiWorkshop/blob/main/GenerativeAI_Workshop.ipynb) file menu, select "Save a copy in Drive" to have your own version of the workshop. This is crucial for installing packages and creating images.
+
+2. **Connect to Google Colab Server**:
+   - On the right side of your screen in Google Colab, find the connection options.
+   - By default, you'll be assigned a T4 GPU with 16GB of memory. For better performance, opt for a 100 GPU, although it may incur costs.
+
+3. **Prepare Your Workspace**:
+   - Create a folder for your photos, preferably named using a unique handle (e.g., a combination of your name).
+   - Ensure all photos are 512x512 pixels to avoid errors.
+
+## Running the Workshop
+
+1. **Execute the Code**:
+   - Google Colab assigns server space to run the code. You'll use either console commands (prefixed with `!`) or Python code directly.
+   - Begin by running the first blocks of code. Click the "Play" button beside each code block to execute.
+
+2. **Configure Your Model**:
+   - Update the code to recognize your photo directory by changing the handle in the specified line.
+   - Specify the class of your avatar, e.g., "a photo of a woman", in the model parameters to personalize the output.
+
+3. **Train Your Model**:
+   - Training might take up to 15 minutes. Patience is key.
+   - Once training is complete, you can start experimenting with your model.
+
+## Experimentation and Results
+
+- Use your unique handle to generate images with Stable Diffusion.
+- The process allows for creative input, so experiment with different prompts to see what the model can create.
+
+## Conclusion
+
+This workshop provides a hands-on experience with the Stable Diffusion algorithm, teaching you to create personalized avatars for social media. Follow the steps carefully, and enjoy the process of bringing your digital identity to life!
+
+### About Me
+
+3+ years of experience in tech mentorship, software engineering, technical workshops, and explaining technical concepts to beginners. 20+ years of experience in project management, communications, content management, and content creation. Proven track record of successful project delivery, event organization, digital marketing campaigns, and website development. Experienced in managing volunteer outreach, creating social media posts, and overseeing pair programming sessions. If you're on the lookout for a technical trainer or customer education specialist with a diverse skill set, I'm eager to explore new opportunities across industries. Let's connect over a coffee or tea and chat about potential collaborations! ☕️
+
