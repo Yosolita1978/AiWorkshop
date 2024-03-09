@@ -4,7 +4,8 @@ Welcome to our workshop on creating your own social media avatar using the Stabl
 
 You can watch the instructions on how to work with this workshop in [this video](https://youtu.be/G_KItiX1CDI?si=YTb3U-iztx7jF7kC)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G_KItiX1CDI?si=YTb3U-iztx7jF7kC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![](https://markdown-videos-api.jorgenkh.no/youtube/G_KItiX1CDI )](https://youtu.be/G_KItiX1CDI )
+
 
 ## Getting Started
 
