@@ -43,6 +43,11 @@ You can watch the instructions on how to work with this workshop in [this video]
 
 This workshop provides a hands-on experience with the Stable Diffusion algorithm, teaching you to create personalized avatars for social media. Follow the steps carefully, and enjoy the process of bringing your digital identity to life!
 
+# Resources 
+* Access the Google Colab space for this workshop [here](https://colab.research.google.com/github/Yosolita1978/AiWorkshop/blob/main/GenerativeAI_Workshop.ipynb). This workshop provides a hands-on experience with the Stable Diffusion algorithm, teaching you to create personalized avatars for social media. Follow the steps carefully, and enjoy the process of bringing your digital identity to life!
+
+If you need or are interested on more resources, learning paths or courses about AI please visite this [link](https://github.com/Yosolita1978/AiWorkshop/blob/main/Generative%20AI%20Handout-1.pdf)
+
 ### About Me
 
 3+ years of experience in tech mentorship, software engineering, technical workshops, and explaining technical concepts to beginners. 20+ years of experience in project management, communications, content management, and content creation. Proven track record of successful project delivery, event organization, digital marketing campaigns, and website development. Experienced in managing volunteer outreach, creating social media posts, and overseeing pair programming sessions. If you're on the lookout for a technical trainer or customer education specialist with a diverse skill set, I'm eager to explore new opportunities across industries. Let's connect over a coffee or tea and chat about potential collaborations! ☕️
