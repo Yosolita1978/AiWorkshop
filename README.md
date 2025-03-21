@@ -6,6 +6,14 @@ You can watch the instructions on how to work with this workshop in [this video]
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/G_KItiX1CDI )](https://youtu.be/G_KItiX1CDI )
 
+## 📺 Watch the Full Workshop Video
+
+Missed the live session or want a refresher? Watch the full recording from **Google Dev Fest 2024** here:  
+👉 [https://www.youtube.com/watch?v=vWIYYvaJwYU](https://www.youtube.com/watch?v=vWIYYvaJwYU)
+
+🎤 **Presented by**: Petra Dubravcova & Cristina Rodriguez  
+📑 **Slides**: [Workshop Slide Deck]([https://docs.google.com/presentation/...](https://docs.google.com/presentation/d/1iPiXkStJNpDJwlymEuZdhzN3Xkj2puj6mvguPrOeNts/edit?usp=sharing))
+
 
 ## Getting Started
 
